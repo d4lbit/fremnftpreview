@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Live
 
-https://d4lbit.github.io/fremnftpreview/
+[Click here](https://d4lbit.github.io/fremnftpreview/)
 
 ## My process
 
@@ -39,6 +39,6 @@ https://d4lbit.github.io/fremnftpreview/
 
 ## Author
 
-- GitHub - [Add your name here](https://github.com/d4lbit)
+- GitHub - [d4lbit](https://github.com/d4lbit)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/d4lbit)
 
