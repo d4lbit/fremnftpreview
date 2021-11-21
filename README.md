@@ -40,5 +40,5 @@ Users should be able to:
 ## Author
 
 - GitHub - [d4lbit](https://github.com/d4lbit)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/d4lbit)
+- Frontend Mentor - [@d4lbit](https://www.frontendmentor.io/profile/d4lbit)
 
