@@ -6,7 +6,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
+  - [Live](#live)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -24,10 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-### Links
+### Live
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+https://d4lbit.github.io/fremnftpreview/
 
 ## My process
 
